@@ -6,6 +6,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.safari.SafariDriver;
 
 public class BasicNavigation {
+
     public static void main(String[] args) {
         WebDriverManager.chromedriver() .setup();
 
